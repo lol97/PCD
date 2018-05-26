@@ -1,0 +1,57 @@
+Atungulu G, Nishiyama Y,Koide S (2003) Evaluation of condensation phenomenaon grains by image analysis. Agricultural Engineering Journal, 12 (1&2), 65–78.
+Bechtel DB, Pomeranz Y (1977) Ultrastructure of the mature ungerminated rice (Oriza Sativa) caryopsis. The caryopsis coat and the aleurone cells. American Journal of Botany, 64 (8), 966–973.
+Bechtel DB, Pomeranz Y (1978a) Implications of the rice kernel structure in storage, marketing, and processing: a review. Journal of Food Science, 43 (5), 1538–1542.
+Bechtel DB, Pomeranz Y (1978b) Ultrastructure of the mature ungerminated rice (Oriza Sativa) caryopsis. The germ. American Journal of Botany, 65 (1), 75–85.
+Bechtel DB, Pomeranz Y (1978c) Ultrastructure of the mature ungerminated rice (Oriza Sativa) caryopsis. The starchy endosperm. American Journal of Botany, 65 (6), 684–691.
+Bradbury JH, Collins JG, Pyliotis NA (1980) Methods of separation of major histological components of rice and characterization of their proteins by amino acid analysis. Cereal Chemistry, 57 (2), 133–137.
+Carter R M,Yan Y,Tomlins K (2006) Digital imaging based classification and authentication of granular food products. Measurement Science and Technology, 17, 235–240.
+Dalen GV (2004) Determination of the size distribution and percentage of broken kernels of rice using flatbed scanning and image analysis. Food Research International, 37, 51–58.
+Dang J M C, Copeland L (2003) Imaging rice grains using atomic force microscopy. Journal of Cereal Science, 37, 165–170.
+Food and Agriculture Organization of the United Nations (FAO) (2006) I. Production. FAO Rice Market Monitor, 9 (1), 3.
+Fulcher RG (1982) Fluorescence microscopy of cereals. Food Microstructure, 1, 167–175.
+Furukawa S, Mizuma T, KiyokawaY, Masumura T, Tanaka K, WakaiY (2003) Distribution of storage proteins in low-glutelin rice seed determined using fluorescent antibody. Journal of Bioscience and Bioengineering, 96 (5), 467–473.
+Goodman DE, Rao RM (1984) A new, rapid, interactive image analysis method for determining physical dimensions of milled rice kernels. Journal of Food Science, 49, 648–649.
+Horigane AK, Toyoshima H, Hemmi H, Engelaar WMHG, Okubo A, Nagata T (1999) Internal hollows in cooked rice grains (Oryza sativa cv. Koshihikari) observed by NMR micro imaging. Journal of Food Science, 64, 1–5.
+HoriganeAK, EngelaarWMHG,Toyoshima H, Ono H, Sasaki M, OkuboA, NagataT (2000) Differences in hollow volumes in cooked rice grain with various amylose contents as determined by NMR micro imaging. Journal of Food Science, 65, 408–412.
+Horigane AK, Engelaart WMHG, Maruyama S, Yoshida M, Okubo A, Nagata T (2001) Visualization of moisture distribution during development of rice caryopses (Oriza sativa L.) by nuclear magnetic resonance microimaging. Journal of Cereal Science, 33, 105–114.
+Hoshikawa K (1993a) Quality and shape of rice grains. In Science of the Rice Plant. Vol.1. Morphology (MatsuoT, Hoshikawa K, eds). Tokyo: Food andAgriculture Policy Research Center, pp. 377–412.
+Hoshikawa K (1993b) Rice seed, germination and seedlings. In Science of the Rice Plant. Vol. 1. Morphology (MatsuoT, Hoshikawa K, eds). Tokyo: Food andAgriculture Policy Research Center, pp. 91–109.
+Ishida N, Naito S, Kano H (2004) Loss of moisture from harvested rice seeds on MRI. Magnetic Resonance Imaging, 22, 871–875. Jia CC, Yang W, Siebenmorgen TJ, Bautista RC, Cnossen AG (2002) A study of rice fissuring by finite-element simulation of internal stress combined with high-speed microscopy imaging of fissure appearance. Transactions of the ASAE, 45 (3),741–749.
+Juliano BO (1972) The rice caryopsis and its composition. In Rice, Chemistry and technology (Houston DF, ed). St Paul: American Association of Cereal Chemists, pp. 16–74.
+Kasai M, LewisA, Marica F,Ayabe S, Hatae K, Fyfe CA (2005) NMR imaging investigation of rice cooking. Food Research International, 38, 403–410. 
+KatsumataT, SuzukiT,Aizawa H, Matashige E, Komuro S, MorikawaT (2005) Nondestructive evaluation of rice using two-dimensional imaging of photoluminescence. Review of Scientific Instruments, 76 (7), 073702, 1–4.
+Kawamoto T, Shimizu M (1986) A method for preparing whole body sections suitable for autoradiographic, histological and histochemical studies. Stain Technology, 61, 169–183.
+Kennedy BM, Schelstraete M, Del Rosario AR (1974) Chemical, physical, and nutritional properties of high-protein flours and residual kernel from the overmilling of uncoated milled rice. I. Milling procedure and protein, fat, ash, amylose, and starch content. Cereal Chemistry, 51, 435–448.
+Lai FS, Zayas I, Pomeranz Y (1986) Application of pattern recognition techniques in the analysis of cereal grains. Cereal Chemistry, 63 (2), 168–172.
+Lan Y, Fang Q, Kocher MF, Hanna MA (2002) Detection of fissures in rice grains using imaging enhancement. International Journal of Food Properties, 5 (1), 205–215.
+Levinthal C, Ware R (1972) Three dimensional reconstruction from serial sections. Nature, 236, 207–210.
+Lim MC, Lim KC, Abdullah MZ (2003) Rice moisture imaging using electromagnetic measurement technique.TransactionsoftheInstitutionofChemicalEngineers, PartC, 81 (3), 159–169.
+Mohoric A, Vergeldt F, Gerkema E, de Jager A, van Duynhoven J, van Dalen G, Van As H (2004) Magnetic resonance imaging of single rice kernels during cooking. Journal of Magnetic Resonance, 171, 157–162.
+OgawaY, Sugiyama J, Kuensting H, OhtaniT, Hagiwara S, Kokubo K, Kudoh K, Higuchi T (2000) Development of visualization technique for three-dimensional distribution of protein and starch in a brown rice grain using sequential stained sections. Food Science and Technology Research, 6 (3), 176–178.
+Ogawa Y, Sugiyama J, Kuensting H, Ohtani T, Hagiwara S, Liu XQ, Kokubo M, Yamamoto A, Kudoh K, Higuchi T (2001) Advanced technique for three-dimensional visualization of compound distributions in a rice kernel. Journal of Agricultural and Food Chemistry, 49 (2), 736–740.
+Ogawa Y, Kuensting H, Sugiyama J, Ohtani T, Liu XQ, Kokubo M, Kudoh K, Higuchi T (2002a) Structure of a rice grain represented by a new three-dimensional visualization technique. Journal of Cereal Science, 36 (1), 1–7.
+OgawaY, Kuensting H, Nakao H, Sugiyama J (2002b)Three-dimensional lipid distribution of a brown rice kernel. Journal of Food Science, 67 (7), 2596–2599.
+Ogawa Y, Orts WJ, Glenn GM, Wood DF (2003a) A simple method for studying whole sections of rice grain. Biotechnic & Histochemistry, 78 (5), 237–242.
+Ogawa Y, Glenn GM, Orts WJ, Wood DF (2003b) Histological structures of cooked rice grain. Journal of Agricultural and Food Chemistry, 51 (24), 7019–7023.
+OgawaY, Wood DF, Whitehand LC, Orts WJ, Glenn GM (2006) Compression deformation and structural relationships of medium grain cooked rice. Cereal Chemistry, 83 (6), 636–640.
+PalmgrenA(1954)Tapeformicrosectioningofverylarge, hardorbrittlespecimens. Nature, 174, 46.
+Ramesh MN (2001) An application of image analysis for the study of kinetics of hydration of milled rice in hot water. International Journal of Food Properties, 4 (2), 271–284.
+Sakai N, Yonekawa S, Matsuzaki A, Morishima H (1996) Two-dimensional image analysis of the shape of rice and its application to separating varieties. Journal of Food Engineering, 27, 397–407.
+Sandhya MR, Bhattacharya KR (1995) Microscopy of rice starch granules during cooking. Starch/Starke, 46 (9), 334–337.
+Shatadal P, Jayas DS, Bulley NR (1995a) Digital image analysis for software separation and classification of touching grain: I. disconnect algorithm. Transactions of the ASAE, 38 (2), 635–643.
+Shatadal P, Jayas DS, Bulley NR (1995b) Digital image analysis for software separation and classification of touching grain: II. classification. Transactions of the ASAE, 38 (2), 645–649.
+Suzuki K, Aki M, Kubota K, Hosaka H (1997) Studies on the cooking rate equations of rice. Journal of Food Science, 42 (6), 1545–1548.
+Suzuki M, Horigane AK, Toyoshima H, Yan X, Okadome H, Nagata T (1999) Detection of internal hollows in cooked rice using a light transmittance method. Journal of Food Science, 64, 1027–1028.
+Suzuki M, KimuraT,Yamagishi K, Shinmoto H (2002) Discrimination of cooked mochiminori and koshihikari rice grains by observation of internal hollows using light transmittance photography. Food Science and Technology Research, 8 (1), 8–9.
+Takeoka Y, Shimizu M, Wada T (1993) Morphology and development of reproductive organs. In Science of the Rice Plant. Vol. 1. Morphology (Matsuo T, Hoshikawa K, eds). Tokyo: Food and Agriculture Policy Research Center, pp. 339–376.
+Takeuchi S, Fukuoka M, GomiY, Maeda M,Watanabe H (1997a)An application of magnetic resonance imaging to the real time measurement of the change of moisture profile in a rice grain during boiling. Journal of Food Engineering, 33, 181–192.
+Takeuchi S, Maeda M, Gomi Y, Fukuoka M, Watanabe H (1997b) The change of moisture distribution in a rice grain during boiling as observed by NMR imaging. Journal of Food Engineering, 33, 281–297.
+Wan YN (2002) Kernel handling performance of an automatic grain quality inspection system. Transactions of the ASAE, 45 (2), 369–377.
+Wan YN, Lin CM, Chiou JF (2002) Rice quality classification using an automatic grain quality inspection system. Transactions of the ASAE, 45 (2), 379–387.
+Wang YC, Chou JJ (2004) Automatic segmentation of touching rice kernels with an active contour model. Transactions of the ASAE, 47 (5), 1803–1811.
+Watanabe H, Fukuoka M, Tomiya A, Mihori T (2001) A new-Fickian diffusion model for water migration in starchy food during cooking. Journal of Food Engineering, 49,1–6.
+Watson CA, Dikeman E (1977) Structure of the rice grain shown by scanning electron microscopy. Cereal Chemistry, 54 (1), 120–130.
+Yadav BK, Jindal VK (2001) Monitoring milling quality of rice by image analysis.
+Computers and Electronics in Agriculture, 33, 19–33.
+Yasumatsu K, Moritaka S (1964) Fatty acid compositions of rice lipid and their changes during storage. Agricultural and Biological Chemistry, 28 (5), 257–264.
+Yiu SH (1993) Food microscopy and the nutritional quality of cereal foods. Food Structure, 12, 123–133.
